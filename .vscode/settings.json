@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "Pr2.1.C": "cpp",
+        "PR2.2.C": "cpp",
+        "math.h": "c",
+        "stdio.h": "c"
+    }
+}
